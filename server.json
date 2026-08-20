@@ -1,0 +1,17 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.mcp-dir/pref_rj_rio_janeiro_cert_cad-mcp",
+  "title": "Prefeitura RJ Rio de Janeiro: Certidão de Elementos Cadastrais - IPTU",
+  "description": "Prefeitura RJ Rio de Janeiro: Certificate de Elementos Cadastrais - IPTU, official-source lookup. Pl",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/mcp-dir/pref_rj_rio_janeiro_cert_cad-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.mcp.ai/p_pref_rj_rio_janeiro_cert_cad"
+    }
+  ]
+}
